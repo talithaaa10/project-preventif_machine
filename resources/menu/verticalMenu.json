@@ -1,0 +1,89 @@
+{
+  "menu": [
+    {
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard",
+      "url": "/dashboard"
+    },
+    {
+      "name": "Main Dashboard",
+      "icon": "menu-icon tf-icons bx bx-data",
+      "slug": ["main-dashboard", "machine-breakdown"],
+      "submenu": [
+        {
+          "url": "/main-dashboard/battery",
+          "name": "Battery",
+          "slug": "main-dashboard-battery"
+        },
+        {
+          "url": "/machine-breakdown/line-stop",
+          "name": "Line Stop",
+          "slug": "machine-breakdown-line-stop"
+        },
+        {
+          "url": "/machine-breakdown",
+          "name": "Machine Breakdown",
+          "slug": "machine-breakdown-index"
+        },
+        {
+          "url": "/machine-breakdown/mttr",
+          "name": "MTTR",
+          "slug": "machine-breakdown-mttr"
+        },
+        {
+          "url": "/machine-breakdown/mbtf",
+          "name": "MTBF",
+          "slug": "machine-breakdown-mbtf"
+        }
+      ]
+    },
+    {
+      "name": "Input Data",
+      "icon": "menu-icon tf-icons bx bx-edit",
+      "slug": "input-data",
+      "submenu": [
+        {
+          "url": "/input/kpi",
+          "name": "KPI",
+          "slug": "input-kpi"
+        },
+        {
+          "url": "/input/battery",
+          "name": "Battery",
+          "slug": "input-battery"
+        },
+        {
+          "url": "/input/machine-breakdown",
+          "name": "Machine Breakdown",
+          "slug": "input-machine-breakdown"
+        },
+        {
+          "url": "/input/akurasi",
+          "name": "Akurasi",
+          "slug": "input-akurasi"
+        },
+        {
+          "url": "/input/backup",
+          "name": "Back Up",
+          "slug": "input-backup"
+        }
+      ]
+    },
+    {
+      "menuHeader": "SETTINGS"
+    },
+    {
+      "name": "User Management",
+      "icon": "menu-icon tf-icons bx bx-user-check",
+      "slug": "users",
+      "url": "/users"
+    },
+    {
+      "name": "Role & Hak Akses",
+      "icon": "menu-icon tf-icons bx bx-shield-quarter",
+      "slug": "roles",
+      "url": "/roles"
+    }
+  ]
+}

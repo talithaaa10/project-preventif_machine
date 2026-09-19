@@ -1,0 +1,2284 @@
+﻿Cat,Date,Status,KPI,Sub-KPI,Line,Duration,Freq,%,Target
+Performance,Apr-26,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,Apr-26,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,May-26,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,Jun-26,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,Jul-26,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,Aug-26,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,Sep-26,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,Oct-26,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,Nov-26,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,Dec-26,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,Jan-27,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,Feb-27,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,CONROD,,,0.0400,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,CAMSHAFT,,,0.0250,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,CRANKSHAFT,,,0.0250,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,CYL HEAD,,,0.0150,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,CYL BLOCK,,,0.0600,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0200,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,END YOKE,,,0.0050,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,INNER SHAFT,,,0.0050,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,CENTER BEARING,,,0.0050,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,NYLON COATED,,,0.0050,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,FLANGE,,,0.0050,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,SLIDING,,,0.0050,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,COUPLING,,,0.0150,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,SUB ASSY Y230,,,0.0050,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0050,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0300,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,E/G LINE,,,0.0050,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,AXLE ASSY,,,0.0050,"1,5%"
+Performance,Mar-27,Target,Machine Breakdown,,TRANSMISI,,,0.0050,"1,5%"
+Performance,Apr-26,Target,MTTR,,CONROD,32,,,12
+Performance,Apr-26,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,Apr-26,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,Apr-26,Target,MTTR,,CYL HEAD,12,,,12
+Performance,Apr-26,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,Apr-26,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,Apr-26,Target,MTTR,,END YOKE,4,,,12
+Performance,Apr-26,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,Apr-26,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,Apr-26,Target,MTTR,,NYLON COATED,4,,,12
+Performance,Apr-26,Target,MTTR,,FLANGE,4,,,12
+Performance,Apr-26,Target,MTTR,,SLIDING,4,,,12
+Performance,Apr-26,Target,MTTR,,COUPLING,12,,,12
+Performance,Apr-26,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,Apr-26,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,Apr-26,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,Apr-26,Target,MTTR,,E/G LINE,4,,,12
+Performance,Apr-26,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,Apr-26,Target,MTTR,,TRANSMISI,4,,,12
+Performance,May-26,Target,MTTR,,CONROD,32,,,12
+Performance,May-26,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,May-26,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,May-26,Target,MTTR,,CYL HEAD,12,,,12
+Performance,May-26,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,May-26,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,May-26,Target,MTTR,,END YOKE,4,,,12
+Performance,May-26,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,May-26,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,May-26,Target,MTTR,,NYLON COATED,4,,,12
+Performance,May-26,Target,MTTR,,FLANGE,4,,,12
+Performance,May-26,Target,MTTR,,SLIDING,4,,,12
+Performance,May-26,Target,MTTR,,COUPLING,12,,,12
+Performance,May-26,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,May-26,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,May-26,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,May-26,Target,MTTR,,E/G LINE,4,,,12
+Performance,May-26,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,May-26,Target,MTTR,,TRANSMISI,4,,,12
+Performance,Jun-26,Target,MTTR,,CONROD,32,,,12
+Performance,Jun-26,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,Jun-26,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,Jun-26,Target,MTTR,,CYL HEAD,12,,,12
+Performance,Jun-26,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,Jun-26,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,Jun-26,Target,MTTR,,END YOKE,4,,,12
+Performance,Jun-26,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,Jun-26,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,Jun-26,Target,MTTR,,NYLON COATED,4,,,12
+Performance,Jun-26,Target,MTTR,,FLANGE,4,,,12
+Performance,Jun-26,Target,MTTR,,SLIDING,4,,,12
+Performance,Jun-26,Target,MTTR,,COUPLING,12,,,12
+Performance,Jun-26,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,Jun-26,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,Jun-26,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,Jun-26,Target,MTTR,,E/G LINE,4,,,12
+Performance,Jun-26,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,Jun-26,Target,MTTR,,TRANSMISI,4,,,12
+Performance,Jul-26,Target,MTTR,,CONROD,32,,,12
+Performance,Jul-26,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,Jul-26,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,Jul-26,Target,MTTR,,CYL HEAD,12,,,12
+Performance,Jul-26,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,Jul-26,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,Jul-26,Target,MTTR,,END YOKE,4,,,12
+Performance,Jul-26,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,Jul-26,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,Jul-26,Target,MTTR,,NYLON COATED,4,,,12
+Performance,Jul-26,Target,MTTR,,FLANGE,4,,,12
+Performance,Jul-26,Target,MTTR,,SLIDING,4,,,12
+Performance,Jul-26,Target,MTTR,,COUPLING,12,,,12
+Performance,Jul-26,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,Jul-26,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,Jul-26,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,Jul-26,Target,MTTR,,E/G LINE,4,,,12
+Performance,Jul-26,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,Jul-26,Target,MTTR,,TRANSMISI,4,,,12
+Performance,Aug-26,Target,MTTR,,CONROD,32,,,12
+Performance,Aug-26,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,Aug-26,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,Aug-26,Target,MTTR,,CYL HEAD,12,,,12
+Performance,Aug-26,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,Aug-26,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,Aug-26,Target,MTTR,,END YOKE,4,,,12
+Performance,Aug-26,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,Aug-26,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,Aug-26,Target,MTTR,,NYLON COATED,4,,,12
+Performance,Aug-26,Target,MTTR,,FLANGE,4,,,12
+Performance,Aug-26,Target,MTTR,,SLIDING,4,,,12
+Performance,Aug-26,Target,MTTR,,COUPLING,12,,,12
+Performance,Aug-26,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,Aug-26,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,Aug-26,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,Aug-26,Target,MTTR,,E/G LINE,4,,,12
+Performance,Aug-26,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,Aug-26,Target,MTTR,,TRANSMISI,4,,,12
+Performance,Sep-26,Target,MTTR,,CONROD,32,,,12
+Performance,Sep-26,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,Sep-26,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,Sep-26,Target,MTTR,,CYL HEAD,12,,,12
+Performance,Sep-26,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,Sep-26,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,Sep-26,Target,MTTR,,END YOKE,4,,,12
+Performance,Sep-26,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,Sep-26,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,Sep-26,Target,MTTR,,NYLON COATED,4,,,12
+Performance,Sep-26,Target,MTTR,,FLANGE,4,,,12
+Performance,Sep-26,Target,MTTR,,SLIDING,4,,,12
+Performance,Sep-26,Target,MTTR,,COUPLING,12,,,12
+Performance,Sep-26,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,Sep-26,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,Sep-26,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,Sep-26,Target,MTTR,,E/G LINE,4,,,12
+Performance,Sep-26,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,Sep-26,Target,MTTR,,TRANSMISI,4,,,12
+Performance,Oct-26,Target,MTTR,,CONROD,32,,,12
+Performance,Oct-26,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,Oct-26,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,Oct-26,Target,MTTR,,CYL HEAD,12,,,12
+Performance,Oct-26,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,Oct-26,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,Oct-26,Target,MTTR,,END YOKE,4,,,12
+Performance,Oct-26,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,Oct-26,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,Oct-26,Target,MTTR,,NYLON COATED,4,,,12
+Performance,Oct-26,Target,MTTR,,FLANGE,4,,,12
+Performance,Oct-26,Target,MTTR,,SLIDING,4,,,12
+Performance,Oct-26,Target,MTTR,,COUPLING,12,,,12
+Performance,Oct-26,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,Oct-26,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,Oct-26,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,Oct-26,Target,MTTR,,E/G LINE,4,,,12
+Performance,Oct-26,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,Oct-26,Target,MTTR,,TRANSMISI,4,,,12
+Performance,Nov-26,Target,MTTR,,CONROD,32,,,12
+Performance,Nov-26,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,Nov-26,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,Nov-26,Target,MTTR,,CYL HEAD,12,,,12
+Performance,Nov-26,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,Nov-26,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,Nov-26,Target,MTTR,,END YOKE,4,,,12
+Performance,Nov-26,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,Nov-26,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,Nov-26,Target,MTTR,,NYLON COATED,4,,,12
+Performance,Nov-26,Target,MTTR,,FLANGE,4,,,12
+Performance,Nov-26,Target,MTTR,,SLIDING,4,,,12
+Performance,Nov-26,Target,MTTR,,COUPLING,12,,,12
+Performance,Nov-26,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,Nov-26,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,Nov-26,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,Nov-26,Target,MTTR,,E/G LINE,4,,,12
+Performance,Nov-26,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,Nov-26,Target,MTTR,,TRANSMISI,4,,,12
+Performance,Dec-26,Target,MTTR,,CONROD,32,,,12
+Performance,Dec-26,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,Dec-26,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,Dec-26,Target,MTTR,,CYL HEAD,12,,,12
+Performance,Dec-26,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,Dec-26,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,Dec-26,Target,MTTR,,END YOKE,4,,,12
+Performance,Dec-26,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,Dec-26,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,Dec-26,Target,MTTR,,NYLON COATED,4,,,12
+Performance,Dec-26,Target,MTTR,,FLANGE,4,,,12
+Performance,Dec-26,Target,MTTR,,SLIDING,4,,,12
+Performance,Dec-26,Target,MTTR,,COUPLING,12,,,12
+Performance,Dec-26,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,Dec-26,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,Dec-26,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,Dec-26,Target,MTTR,,E/G LINE,4,,,12
+Performance,Dec-26,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,Dec-26,Target,MTTR,,TRANSMISI,4,,,12
+Performance,Jan-27,Target,MTTR,,CONROD,32,,,12
+Performance,Jan-27,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,Jan-27,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,Jan-27,Target,MTTR,,CYL HEAD,12,,,12
+Performance,Jan-27,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,Jan-27,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,Jan-27,Target,MTTR,,END YOKE,4,,,12
+Performance,Jan-27,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,Jan-27,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,Jan-27,Target,MTTR,,NYLON COATED,4,,,12
+Performance,Jan-27,Target,MTTR,,FLANGE,4,,,12
+Performance,Jan-27,Target,MTTR,,SLIDING,4,,,12
+Performance,Jan-27,Target,MTTR,,COUPLING,12,,,12
+Performance,Jan-27,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,Jan-27,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,Jan-27,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,Jan-27,Target,MTTR,,E/G LINE,4,,,12
+Performance,Jan-27,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,Jan-27,Target,MTTR,,TRANSMISI,4,,,12
+Performance,Feb-27,Target,MTTR,,CONROD,32,,,12
+Performance,Feb-27,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,Feb-27,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,Feb-27,Target,MTTR,,CYL HEAD,12,,,12
+Performance,Feb-27,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,Feb-27,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,Feb-27,Target,MTTR,,END YOKE,4,,,12
+Performance,Feb-27,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,Feb-27,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,Feb-27,Target,MTTR,,NYLON COATED,4,,,12
+Performance,Feb-27,Target,MTTR,,FLANGE,4,,,12
+Performance,Feb-27,Target,MTTR,,SLIDING,4,,,12
+Performance,Feb-27,Target,MTTR,,COUPLING,12,,,12
+Performance,Feb-27,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,Feb-27,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,Feb-27,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,Feb-27,Target,MTTR,,E/G LINE,4,,,12
+Performance,Feb-27,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,Feb-27,Target,MTTR,,TRANSMISI,4,,,12
+Performance,Mar-27,Target,MTTR,,CONROD,32,,,12
+Performance,Mar-27,Target,MTTR,,CAMSHAFT,20,,,12
+Performance,Mar-27,Target,MTTR,,CRANKSHAFT,20,,,12
+Performance,Mar-27,Target,MTTR,,CYL HEAD,12,,,12
+Performance,Mar-27,Target,MTTR,,CYL BLOCK,48,,,12
+Performance,Mar-27,Target,MTTR,,REAR AXLE HOUSING 13,16,,,12
+Performance,Mar-27,Target,MTTR,,END YOKE,4,,,12
+Performance,Mar-27,Target,MTTR,,INNER SHAFT,4,,,12
+Performance,Mar-27,Target,MTTR,,CENTER BEARING,4,,,12
+Performance,Mar-27,Target,MTTR,,NYLON COATED,4,,,12
+Performance,Mar-27,Target,MTTR,,FLANGE,4,,,12
+Performance,Mar-27,Target,MTTR,,SLIDING,4,,,12
+Performance,Mar-27,Target,MTTR,,COUPLING,12,,,12
+Performance,Mar-27,Target,MTTR,,SUB ASSY Y230,4,,,12
+Performance,Mar-27,Target,MTTR,,Y230 INTER AXLE/CENTER BEARING,4,,,12
+Performance,Mar-27,Target,MTTR,,REAR AXLE HOUSING 17,24,,,12
+Performance,Mar-27,Target,MTTR,,E/G LINE,4,,,12
+Performance,Mar-27,Target,MTTR,,AXLE ASSY,4,,,12
+Performance,Mar-27,Target,MTTR,,TRANSMISI,4,,,12
+Performance,Apr-26,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,Apr-26,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,Apr-26,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,Apr-26,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,Apr-26,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,Apr-26,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,Apr-26,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,Apr-26,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,Apr-26,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,Apr-26,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,Apr-26,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,Apr-26,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,Apr-26,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,Apr-26,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,Apr-26,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,Apr-26,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,Apr-26,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,Apr-26,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,Apr-26,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,May-26,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,May-26,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,May-26,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,May-26,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,May-26,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,May-26,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,May-26,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,May-26,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,May-26,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,May-26,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,May-26,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,May-26,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,May-26,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,May-26,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,May-26,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,May-26,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,May-26,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,May-26,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,May-26,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,Jun-26,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,Jun-26,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,Jun-26,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,Jun-26,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,Jun-26,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,Jun-26,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,Jun-26,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,Jun-26,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,Jun-26,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,Jun-26,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,Jun-26,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,Jun-26,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,Jun-26,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,Jun-26,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,Jun-26,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,Jun-26,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,Jun-26,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,Jun-26,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,Jun-26,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,Jul-26,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,Jul-26,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,Jul-26,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,Jul-26,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,Jul-26,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,Jul-26,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,Jul-26,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,Jul-26,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,Jul-26,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,Jul-26,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,Jul-26,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,Jul-26,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,Jul-26,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,Jul-26,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,Jul-26,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,Jul-26,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,Jul-26,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,Jul-26,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,Jul-26,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,Aug-26,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,Aug-26,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,Aug-26,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,Aug-26,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,Aug-26,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,Aug-26,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,Aug-26,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,Aug-26,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,Aug-26,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,Aug-26,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,Aug-26,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,Aug-26,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,Aug-26,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,Aug-26,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,Aug-26,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,Aug-26,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,Aug-26,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,Aug-26,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,Aug-26,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,Sep-26,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,Sep-26,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,Sep-26,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,Sep-26,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,Sep-26,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,Sep-26,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,Sep-26,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,Sep-26,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,Sep-26,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,Sep-26,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,Sep-26,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,Sep-26,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,Sep-26,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,Sep-26,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,Sep-26,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,Sep-26,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,Sep-26,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,Sep-26,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,Sep-26,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,Oct-26,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,Oct-26,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,Oct-26,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,Oct-26,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,Oct-26,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,Oct-26,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,Oct-26,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,Oct-26,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,Oct-26,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,Oct-26,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,Oct-26,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,Oct-26,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,Oct-26,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,Oct-26,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,Oct-26,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,Oct-26,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,Oct-26,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,Oct-26,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,Oct-26,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,Nov-26,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,Nov-26,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,Nov-26,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,Nov-26,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,Nov-26,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,Nov-26,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,Nov-26,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,Nov-26,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,Nov-26,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,Nov-26,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,Nov-26,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,Nov-26,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,Nov-26,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,Nov-26,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,Nov-26,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,Nov-26,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,Nov-26,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,Nov-26,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,Nov-26,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,Dec-26,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,Dec-26,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,Dec-26,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,Dec-26,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,Dec-26,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,Dec-26,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,Dec-26,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,Dec-26,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,Dec-26,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,Dec-26,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,Dec-26,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,Dec-26,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,Dec-26,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,Dec-26,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,Dec-26,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,Dec-26,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,Dec-26,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,Dec-26,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,Dec-26,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,Jan-27,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,Jan-27,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,Jan-27,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,Jan-27,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,Jan-27,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,Jan-27,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,Jan-27,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,Jan-27,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,Jan-27,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,Jan-27,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,Jan-27,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,Jan-27,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,Jan-27,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,Jan-27,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,Jan-27,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,Jan-27,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,Jan-27,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,Jan-27,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,Jan-27,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,Feb-27,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,Feb-27,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,Feb-27,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,Feb-27,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,Feb-27,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,Feb-27,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,Feb-27,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,Feb-27,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,Feb-27,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,Feb-27,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,Feb-27,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,Feb-27,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,Feb-27,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,Feb-27,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,Feb-27,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,Feb-27,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,Feb-27,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,Feb-27,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,Feb-27,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,Mar-27,Target,MTBF,,CONROD, 925 ,,,4943
+Performance,Mar-27,Target,MTBF,,CAMSHAFT," 1,480 ",,,4943
+Performance,Mar-27,Target,MTBF,,CRANKSHAFT," 1,480 ",,,4943
+Performance,Mar-27,Target,MTBF,,CYL HEAD," 2,467 ",,,4943
+Performance,Mar-27,Target,MTBF,,CYL BLOCK, 617 ,,,4943
+Performance,Mar-27,Target,MTBF,,REAR AXLE HOUSING 13," 1,850 ",,,4943
+Performance,Mar-27,Target,MTBF,,END YOKE," 7,400 ",,,4943
+Performance,Mar-27,Target,MTBF,,INNER SHAFT," 7,400 ",,,4943
+Performance,Mar-27,Target,MTBF,,CENTER BEARING," 7,400 ",,,4943
+Performance,Mar-27,Target,MTBF,,NYLON COATED," 7,400 ",,,4943
+Performance,Mar-27,Target,MTBF,,FLANGE," 7,400 ",,,4943
+Performance,Mar-27,Target,MTBF,,SLIDING," 7,400 ",,,4943
+Performance,Mar-27,Target,MTBF,,COUPLING," 2,467 ",,,4943
+Performance,Mar-27,Target,MTBF,,SUB ASSY Y230," 7,400 ",,,4943
+Performance,Mar-27,Target,MTBF,,Y230 INTER AXLE/CENTER BEARING," 7,400 ",,,4943
+Performance,Mar-27,Target,MTBF,,REAR AXLE HOUSING 17," 1,233 ",,,4943
+Performance,Mar-27,Target,MTBF,,E/G LINE," 7,400 ",,,4943
+Performance,Mar-27,Target,MTBF,,AXLE ASSY," 7,400 ",,,4943
+Performance,Mar-27,Target,MTBF,,TRANSMISI," 7,400 ",,,4943
+Performance,Apr-26,Result,Working Hours,,CONROD," 8,946.40 ",,,
+Performance,Apr-26,Result,Working Hours,,CAMSHAFT," 4,332.00 ",,,
+Performance,Apr-26,Result,Working Hours,,CRANKSHAFT," 4,239.00 ",,,
+Performance,Apr-26,Result,Working Hours,,CYL HEAD," 8,937.77 ",,,
+Performance,Apr-26,Result,Working Hours,,CYL BLOCK," 9,178.36 ",,,
+Performance,Apr-26,Result,Working Hours,,REAR AXLE HOUSING 13," 8,535.00 ",,,
+Performance,Apr-26,Result,Working Hours,,END YOKE," 9,332.00 ",,,
+Performance,Apr-26,Result,Working Hours,,INNER SHAFT," 5,965.00 ",,,
+Performance,Apr-26,Result,Working Hours,,CENTER BEARING," 9,746.00 ",,,
+Performance,Apr-26,Result,Working Hours,,NYLON COATED," 6,641.50 ",,,
+Performance,Apr-26,Result,Working Hours,,FLANGE," 8,150.28 ",,,
+Performance,Apr-26,Result,Working Hours,,SLIDING," 8,150.28 ",,,
+Performance,Apr-26,Result,Working Hours,,COUPLING," 8,110.75 ",,,
+Performance,Apr-26,Result,Working Hours,,SUB ASSY Y230," 7,706.00 ",,,
+Performance,Apr-26,Result,Working Hours,,Y230 INTER AXLE/CENTER BEARING," 5,142.00 ",,,
+Performance,Apr-26,Result,Working Hours,,REAR AXLE HOUSING 17," 7,761.40 ",,,
+Performance,Apr-26,Result,Working Hours,,E/G LINE," 9,400.40 ",,,
+Performance,Apr-26,Result,Working Hours,,AXLE ASSY," 7,778.00 ",,,
+Performance,Apr-26,Result,Working Hours,,TRANSMISI," 25,064.00 ",,,
+Performance,Apr-26,Result,Linestop,,CONROD, 80.80 ,2,,620
+Performance,Apr-26,Result,Linestop,,CAMSHAFT, 47.80 ,3,,620
+Performance,Apr-26,Result,Linestop,,CRANKSHAFT, 97.00 ,6,,620
+Performance,Apr-26,Result,Linestop,,CYL HEAD, 238.00 ,7,,620
+Performance,Apr-26,Result,Linestop,,CYL BLOCK, 145.00 ,20,,620
+Performance,Apr-26,Result,Linestop,,REAR AXLE HOUSING 13, 27.00 ,3,,620
+Performance,Apr-26,Result,Linestop,,END YOKE, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,INNER SHAFT, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,CENTER BEARING, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,NYLON COATED, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,FLANGE, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,SLIDING, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,COUPLING, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,SUB ASSY Y230, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,Y230 INTER AXLE/CENTER BEARING, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,REAR AXLE HOUSING 17, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,E/G LINE, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,AXLE ASSY, -   ,0,,620
+Performance,Apr-26,Result,Linestop,,TRANSMISI, -   ,0,,620
+Performance,Apr-26,Result,Machine Breakdown,,CONROD,,,0.0090,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,CAMSHAFT,,,0.0110,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,CRANKSHAFT,,,0.0229,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,CYL HEAD,,,0.0266,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,CYL BLOCK,,,0.0158,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0032,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,END YOKE,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,INNER SHAFT,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,CENTER BEARING,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,NYLON COATED,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,FLANGE,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,SLIDING,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,COUPLING,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,SUB ASSY Y230,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,E/G LINE,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,AXLE ASSY,,,0.0000,"1,5%"
+Performance,Apr-26,Result,Machine Breakdown,,TRANSMISI,,,0.0000,"1,5%"
+Performance,Apr-26,Result,MTTR,,CONROD, 40.40 ,,,12
+Performance,Apr-26,Result,MTTR,,CAMSHAFT, 15.93 ,,,12
+Performance,Apr-26,Result,MTTR,,CRANKSHAFT, 16.17 ,,,12
+Performance,Apr-26,Result,MTTR,,CYL HEAD, 34.00 ,,,12
+Performance,Apr-26,Result,MTTR,,CYL BLOCK, 7.25 ,,,12
+Performance,Apr-26,Result,MTTR,,REAR AXLE HOUSING 13, 9.00 ,,,12
+Performance,Apr-26,Result,MTTR,,END YOKE, -   ,,,12
+Performance,Apr-26,Result,MTTR,,INNER SHAFT, -   ,,,12
+Performance,Apr-26,Result,MTTR,,CENTER BEARING, -   ,,,12
+Performance,Apr-26,Result,MTTR,,NYLON COATED, -   ,,,12
+Performance,Apr-26,Result,MTTR,,FLANGE, -   ,,,12
+Performance,Apr-26,Result,MTTR,,SLIDING, -   ,,,12
+Performance,Apr-26,Result,MTTR,,COUPLING, -   ,,,12
+Performance,Apr-26,Result,MTTR,,SUB ASSY Y230, -   ,,,12
+Performance,Apr-26,Result,MTTR,,Y230 INTER AXLE/CENTER BEARING, -   ,,,12
+Performance,Apr-26,Result,MTTR,,REAR AXLE HOUSING 17, -   ,,,12
+Performance,Apr-26,Result,MTTR,,E/G LINE, -   ,,,12
+Performance,Apr-26,Result,MTTR,,AXLE ASSY, -   ,,,12
+Performance,Apr-26,Result,MTTR,,TRANSMISI, -   ,,,12
+Performance,Apr-26,Result,MTBF,,CONROD," 4,473 ",,,4943
+Performance,Apr-26,Result,MTBF,,CAMSHAFT," 1,444 ",,,4943
+Performance,Apr-26,Result,MTBF,,CRANKSHAFT, 707 ,,,4943
+Performance,Apr-26,Result,MTBF,,CYL HEAD," 1,277 ",,,4943
+Performance,Apr-26,Result,MTBF,,CYL BLOCK, 459 ,,,4943
+Performance,Apr-26,Result,MTBF,,REAR AXLE HOUSING 13," 2,845 ",,,4943
+Performance,Apr-26,Result,MTBF,,END YOKE," 9,332 ",,,4943
+Performance,Apr-26,Result,MTBF,,INNER SHAFT," 5,965 ",,,4943
+Performance,Apr-26,Result,MTBF,,CENTER BEARING," 9,746 ",,,4943
+Performance,Apr-26,Result,MTBF,,NYLON COATED," 6,642 ",,,4943
+Performance,Apr-26,Result,MTBF,,FLANGE," 8,150 ",,,4943
+Performance,Apr-26,Result,MTBF,,SLIDING," 8,150 ",,,4943
+Performance,Apr-26,Result,MTBF,,COUPLING," 8,111 ",,,4943
+Performance,Apr-26,Result,MTBF,,SUB ASSY Y230," 7,706 ",,,4943
+Performance,Apr-26,Result,MTBF,,Y230 INTER AXLE/CENTER BEARING," 5,142 ",,,4943
+Performance,Apr-26,Result,MTBF,,REAR AXLE HOUSING 17," 7,761 ",,,4943
+Performance,Apr-26,Result,MTBF,,E/G LINE," 9,400 ",,,4943
+Performance,Apr-26,Result,MTBF,,AXLE ASSY," 7,778 ",,,4943
+Performance,Apr-26,Result,MTBF,,TRANSMISI," 25,064 ",,,4943
+Performance,May-26,Result,Working Hours,,CONROD," 8,924 ",,,
+Performance,May-26,Result,Working Hours,,CAMSHAFT," 3,594 ",,,
+Performance,May-26,Result,Working Hours,,CRANKSHAFT," 3,723 ",,,
+Performance,May-26,Result,Working Hours,,CYL HEAD," 8,532 ",,,
+Performance,May-26,Result,Working Hours,,CYL BLOCK," 8,219 ",,,
+Performance,May-26,Result,Working Hours,,REAR AXLE HOUSING 13," 8,910 ",,,
+Performance,May-26,Result,Working Hours,,END YOKE," 9,071 ",,,
+Performance,May-26,Result,Working Hours,,INNER SHAFT," 5,134 ",,,
+Performance,May-26,Result,Working Hours,,CENTER BEARING," 9,156 ",,,
+Performance,May-26,Result,Working Hours,,NYLON COATED," 6,459 ",,,
+Performance,May-26,Result,Working Hours,,FLANGE," 7,478 ",,,
+Performance,May-26,Result,Working Hours,,SLIDING," 7,478 ",,,
+Performance,May-26,Result,Working Hours,,COUPLING," 7,139 ",,,
+Performance,May-26,Result,Working Hours,,SUB ASSY Y230," 7,790 ",,,
+Performance,May-26,Result,Working Hours,,Y230 INTER AXLE/CENTER BEARING," 5,953 ",,,
+Performance,May-26,Result,Working Hours,,REAR AXLE HOUSING 17," 7,386 ",,,
+Performance,May-26,Result,Working Hours,,E/G LINE," 9,391 ",,,
+Performance,May-26,Result,Working Hours,,AXLE ASSY," 8,072 ",,,
+Performance,May-26,Result,Working Hours,,TRANSMISI," 26,523 ",,,
+Performance,May-26,Result,Linestop,,CONROD, 22.80 ,3,,620
+Performance,May-26,Result,Linestop,,CAMSHAFT, 142.80 ,3,,620
+Performance,May-26,Result,Linestop,,CRANKSHAFT, 53.00 ,3,,620
+Performance,May-26,Result,Linestop,,CYL HEAD, 178.00 ,10,,620
+Performance,May-26,Result,Linestop,,CYL BLOCK, 195.00 ,25,,620
+Performance,May-26,Result,Linestop,,REAR AXLE HOUSING 13, 470.00 ,1,,620
+Performance,May-26,Result,Linestop,,END YOKE, -   ,0,,620
+Performance,May-26,Result,Linestop,,INNER SHAFT, -   ,0,,620
+Performance,May-26,Result,Linestop,,CENTER BEARING, -   ,0,,620
+Performance,May-26,Result,Linestop,,NYLON COATED, -   ,0,,620
+Performance,May-26,Result,Linestop,,FLANGE, 19.00 ,4,,620
+Performance,May-26,Result,Linestop,,SLIDING, -   ,0,,620
+Performance,May-26,Result,Linestop,,COUPLING, -   ,0,,620
+Performance,May-26,Result,Linestop,,SUB ASSY Y230, -   ,0,,620
+Performance,May-26,Result,Linestop,,Y230 INTER AXLE/CENTER BEARING, -   ,0,,620
+Performance,May-26,Result,Linestop,,REAR AXLE HOUSING 17, 163.00 ,4,,620
+Performance,May-26,Result,Linestop,,E/G LINE, -   ,0,,620
+Performance,May-26,Result,Linestop,,AXLE ASSY, 60.00 ,1,,620
+Performance,May-26,Result,Linestop,,TRANSMISI, -   ,0,,620
+Performance,May-26,Result,Machine Breakdown,,CONROD,,,0.0026,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,CAMSHAFT,,,0.0397,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,CRANKSHAFT,,,0.0142,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,CYL HEAD,,,0.0209,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,CYL BLOCK,,,0.0237,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0527,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,END YOKE,,,0.0000,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,INNER SHAFT,,,0.0000,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,CENTER BEARING,,,0.0000,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,NYLON COATED,,,0.0000,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,FLANGE,,,0.0025,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,SLIDING,,,0.0000,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,COUPLING,,,0.0000,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,SUB ASSY Y230,,,0.0000,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0000,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0221,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,E/G LINE,,,0.0000,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,AXLE ASSY,,,0.0074,"1,5%"
+Performance,May-26,Result,Machine Breakdown,,TRANSMISI,,,0.0000,"1,5%"
+Performance,May-26,Result,MTTR,,CONROD, 7.60 ,,,12
+Performance,May-26,Result,MTTR,,CAMSHAFT, 47.60 ,,,12
+Performance,May-26,Result,MTTR,,CRANKSHAFT, 17.67 ,,,12
+Performance,May-26,Result,MTTR,,CYL HEAD, 17.80 ,,,12
+Performance,May-26,Result,MTTR,,CYL BLOCK, 7.80 ,,,12
+Performance,May-26,Result,MTTR,,REAR AXLE HOUSING 13, 470.00 ,,,12
+Performance,May-26,Result,MTTR,,END YOKE, -   ,,,12
+Performance,May-26,Result,MTTR,,INNER SHAFT, -   ,,,12
+Performance,May-26,Result,MTTR,,CENTER BEARING, -   ,,,12
+Performance,May-26,Result,MTTR,,NYLON COATED, -   ,,,12
+Performance,May-26,Result,MTTR,,FLANGE, 4.75 ,,,12
+Performance,May-26,Result,MTTR,,SLIDING, -   ,,,12
+Performance,May-26,Result,MTTR,,COUPLING, -   ,,,12
+Performance,May-26,Result,MTTR,,SUB ASSY Y230, -   ,,,12
+Performance,May-26,Result,MTTR,,Y230 INTER AXLE/CENTER BEARING, -   ,,,12
+Performance,May-26,Result,MTTR,,REAR AXLE HOUSING 17, 40.75 ,,,12
+Performance,May-26,Result,MTTR,,E/G LINE, -   ,,,12
+Performance,May-26,Result,MTTR,,AXLE ASSY, 60.00 ,,,12
+Performance,May-26,Result,MTTR,,TRANSMISI, -   ,,,12
+Performance,May-26,Result,MTBF,,CONROD," 2,975 ",,,4943
+Performance,May-26,Result,MTBF,,CAMSHAFT," 1,198 ",,,4943
+Performance,May-26,Result,MTBF,,CRANKSHAFT," 1,241 ",,,4943
+Performance,May-26,Result,MTBF,,CYL HEAD, 853 ,,,4943
+Performance,May-26,Result,MTBF,,CYL BLOCK, 329 ,,,4943
+Performance,May-26,Result,MTBF,,REAR AXLE HOUSING 13," 8,910 ",,,4943
+Performance,May-26,Result,MTBF,,END YOKE," 9,071 ",,,4943
+Performance,May-26,Result,MTBF,,INNER SHAFT," 5,134 ",,,4943
+Performance,May-26,Result,MTBF,,CENTER BEARING," 9,156 ",,,4943
+Performance,May-26,Result,MTBF,,NYLON COATED," 6,459 ",,,4943
+Performance,May-26,Result,MTBF,,FLANGE," 1,869 ",,,4943
+Performance,May-26,Result,MTBF,,SLIDING," 7,478 ",,,4943
+Performance,May-26,Result,MTBF,,COUPLING," 7,139 ",,,4943
+Performance,May-26,Result,MTBF,,SUB ASSY Y230," 7,790 ",,,4943
+Performance,May-26,Result,MTBF,,Y230 INTER AXLE/CENTER BEARING," 5,953 ",,,4943
+Performance,May-26,Result,MTBF,,REAR AXLE HOUSING 17," 1,846 ",,,4943
+Performance,May-26,Result,MTBF,,E/G LINE," 9,391 ",,,4943
+Performance,May-26,Result,MTBF,,AXLE ASSY," 8,072 ",,,4943
+Performance,May-26,Result,MTBF,,TRANSMISI," 26,523 ",,,4943
+Performance,Jun-26,Result,Working Hours,,CONROD," 15,921 ",,,
+Performance,Jun-26,Result,Working Hours,,CAMSHAFT," 8,599 ",,,
+Performance,Jun-26,Result,Working Hours,,CRANKSHAFT," 9,540 ",,,
+Performance,Jun-26,Result,Working Hours,,CYL HEAD," 15,591 ",,,
+Performance,Jun-26,Result,Working Hours,,CYL BLOCK," 15,698 ",,,
+Performance,Jun-26,Result,Working Hours,,REAR AXLE HOUSING 13," 10,279 ",,,
+Performance,Jun-26,Result,Working Hours,,END YOKE," 10,977 ",,,
+Performance,Jun-26,Result,Working Hours,,INNER SHAFT," 7,764 ",,,
+Performance,Jun-26,Result,Working Hours,,CENTER BEARING," 10,275 ",,,
+Performance,Jun-26,Result,Working Hours,,NYLON COATED," 8,152 ",,,
+Performance,Jun-26,Result,Working Hours,,FLANGE," 7,537 ",,,
+Performance,Jun-26,Result,Working Hours,,SLIDING," 7,537 ",,,
+Performance,Jun-26,Result,Working Hours,,COUPLING," 10,200 ",,,
+Performance,Jun-26,Result,Working Hours,,SUB ASSY Y230," 11,756 ",,,
+Performance,Jun-26,Result,Working Hours,,Y230 INTER AXLE/CENTER BEARING," 11,701 ",,,
+Performance,Jun-26,Result,Working Hours,,REAR AXLE HOUSING 17," 10,718 ",,,
+Performance,Jun-26,Result,Working Hours,,E/G LINE," 9,578 ",,,
+Performance,Jun-26,Result,Working Hours,,AXLE ASSY," 11,416 ",,,
+Performance,Jun-26,Result,Working Hours,,TRANSMISI," 12,360 ",,,
+Performance,Jun-26,Result,Linestop,,CONROD, 50.00 ,6,,620
+Performance,Jun-26,Result,Linestop,,CAMSHAFT, 951.60 ,6,,620
+Performance,Jun-26,Result,Linestop,,CRANKSHAFT, 366.60 ,18,,620
+Performance,Jun-26,Result,Linestop,,CYL HEAD, 100.00 ,10,,620
+Performance,Jun-26,Result,Linestop,,CYL BLOCK, 325.00 ,59,,620
+Performance,Jun-26,Result,Linestop,,REAR AXLE HOUSING 13, 95.00 ,11,,620
+Performance,Jun-26,Result,Linestop,,END YOKE, 4.00 ,1,,620
+Performance,Jun-26,Result,Linestop,,INNER SHAFT, -   ,0,,620
+Performance,Jun-26,Result,Linestop,,CENTER BEARING, -   ,0,,620
+Performance,Jun-26,Result,Linestop,,NYLON COATED, -   ,0,,620
+Performance,Jun-26,Result,Linestop,,FLANGE, 240.00 ,1,,620
+Performance,Jun-26,Result,Linestop,,SLIDING, -   ,0,,620
+Performance,Jun-26,Result,Linestop,,COUPLING, -   ,0,,620
+Performance,Jun-26,Result,Linestop,,SUB ASSY Y230, -   ,0,,620
+Performance,Jun-26,Result,Linestop,,Y230 INTER AXLE/CENTER BEARING, -   ,0,,620
+Performance,Jun-26,Result,Linestop,,REAR AXLE HOUSING 17, 8.00 ,1,,620
+Performance,Jun-26,Result,Linestop,,E/G LINE, 164.00 ,11,,620
+Performance,Jun-26,Result,Linestop,,AXLE ASSY, 110.00 ,1,,620
+Performance,Jun-26,Result,Linestop,,TRANSMISI, -   ,0,,620
+Performance,Jun-26,Result,Machine Breakdown,,CONROD,,,0.0031,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,CAMSHAFT,,,0.1107,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,CRANKSHAFT,,,0.0384,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,CYL HEAD,,,0.0064,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,CYL BLOCK,,,0.0207,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0092,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,END YOKE,,,0.0004,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,INNER SHAFT,,,0.0000,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,CENTER BEARING,,,0.0000,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,NYLON COATED,,,0.0000,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,FLANGE,,,0.0318,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,SLIDING,,,0.0000,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,COUPLING,,,0.0000,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,SUB ASSY Y230,,,0.0000,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0000,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0007,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,E/G LINE,,,0.0171,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,AXLE ASSY,,,0.0096,"1,5%"
+Performance,Jun-26,Result,Machine Breakdown,,TRANSMISI,,,0.0000,"1,5%"
+Performance,Jun-26,Result,MTTR,,CONROD, 8.33 ,,,12
+Performance,Jun-26,Result,MTTR,,CAMSHAFT, 158.60 ,,,12
+Performance,Jun-26,Result,MTTR,,CRANKSHAFT, 20.37 ,,,12
+Performance,Jun-26,Result,MTTR,,CYL HEAD, 10.00 ,,,12
+Performance,Jun-26,Result,MTTR,,CYL BLOCK, 5.51 ,,,12
+Performance,Jun-26,Result,MTTR,,REAR AXLE HOUSING 13, 8.64 ,,,12
+Performance,Jun-26,Result,MTTR,,END YOKE, 4.00 ,,,12
+Performance,Jun-26,Result,MTTR,,INNER SHAFT, -   ,,,12
+Performance,Jun-26,Result,MTTR,,CENTER BEARING, -   ,,,12
+Performance,Jun-26,Result,MTTR,,NYLON COATED, -   ,,,12
+Performance,Jun-26,Result,MTTR,,FLANGE, 240.00 ,,,12
+Performance,Jun-26,Result,MTTR,,SLIDING, -   ,,,12
+Performance,Jun-26,Result,MTTR,,COUPLING, -   ,,,12
+Performance,Jun-26,Result,MTTR,,SUB ASSY Y230, -   ,,,12
+Performance,Jun-26,Result,MTTR,,Y230 INTER AXLE/CENTER BEARING, -   ,,,12
+Performance,Jun-26,Result,MTTR,,REAR AXLE HOUSING 17, 8.00 ,,,12
+Performance,Jun-26,Result,MTTR,,E/G LINE, 14.91 ,,,12
+Performance,Jun-26,Result,MTTR,,AXLE ASSY, 110.00 ,,,12
+Performance,Jun-26,Result,MTTR,,TRANSMISI, -   ,,,12
+Performance,Jun-26,Result,MTBF,,CONROD," 2,653 ",,,4943
+Performance,Jun-26,Result,MTBF,,CAMSHAFT," 1,433 ",,,4943
+Performance,Jun-26,Result,MTBF,,CRANKSHAFT, 530 ,,,4943
+Performance,Jun-26,Result,MTBF,,CYL HEAD," 1,559 ",,,4943
+Performance,Jun-26,Result,MTBF,,CYL BLOCK, 266 ,,,4943
+Performance,Jun-26,Result,MTBF,,REAR AXLE HOUSING 13, 934 ,,,4943
+Performance,Jun-26,Result,MTBF,,END YOKE," 10,977 ",,,4943
+Performance,Jun-26,Result,MTBF,,INNER SHAFT," 7,764 ",,,4943
+Performance,Jun-26,Result,MTBF,,CENTER BEARING," 10,275 ",,,4943
+Performance,Jun-26,Result,MTBF,,NYLON COATED," 8,152 ",,,4943
+Performance,Jun-26,Result,MTBF,,FLANGE," 7,537 ",,,4943
+Performance,Jun-26,Result,MTBF,,SLIDING," 7,537 ",,,4943
+Performance,Jun-26,Result,MTBF,,COUPLING," 10,200 ",,,4943
+Performance,Jun-26,Result,MTBF,,SUB ASSY Y230," 11,756 ",,,4943
+Performance,Jun-26,Result,MTBF,,Y230 INTER AXLE/CENTER BEARING," 11,701 ",,,4943
+Performance,Jun-26,Result,MTBF,,REAR AXLE HOUSING 17," 10,718 ",,,4943
+Performance,Jun-26,Result,MTBF,,E/G LINE, 871 ,,,4943
+Performance,Jun-26,Result,MTBF,,AXLE ASSY," 11,416 ",,,4943
+Performance,Jun-26,Result,MTBF,,TRANSMISI," 12,360 ",,,4943
+Performance,Jul-26,Result,Working Hours,,CONROD," 22,352 ",,,
+Performance,Jul-26,Result,Working Hours,,CAMSHAFT," 13,089 ",,,
+Performance,Jul-26,Result,Working Hours,,CRANKSHAFT," 11,832 ",,,
+Performance,Jul-26,Result,Working Hours,,CYL HEAD," 25,564 ",,,
+Performance,Jul-26,Result,Working Hours,,CYL BLOCK," 26,203 ",,,
+Performance,Jul-26,Result,Working Hours,,REAR AXLE HOUSING 13," 12,930 ",,,
+Performance,Jul-26,Result,Working Hours,,END YOKE," 11,723 ",,,
+Performance,Jul-26,Result,Working Hours,,INNER SHAFT," 9,240 ",,,
+Performance,Jul-26,Result,Working Hours,,CENTER BEARING," 10,834 ",,,
+Performance,Jul-26,Result,Working Hours,,NYLON COATED," 9,905 ",,,
+Performance,Jul-26,Result,Working Hours,,FLANGE," 10,903 ",,,
+Performance,Jul-26,Result,Working Hours,,SLIDING," 10,903 ",,,
+Performance,Jul-26,Result,Working Hours,,COUPLING," 12,756 ",,,
+Performance,Jul-26,Result,Working Hours,,SUB ASSY Y230," 12,616 ",,,
+Performance,Jul-26,Result,Working Hours,,Y230 INTER AXLE/CENTER BEARING," 13,745 ",,,
+Performance,Jul-26,Result,Working Hours,,REAR AXLE HOUSING 17," 12,760 ",,,
+Performance,Jul-26,Result,Working Hours,,E/G LINE," 14,781 ",,,
+Performance,Jul-26,Result,Working Hours,,AXLE ASSY," 13,812 ",,,
+Performance,Jul-26,Result,Working Hours,,TRANSMISI," 30,961 ",,,
+Performance,Jul-26,Result,Linestop,,CONROD, 102.30 ,10,,620
+Performance,Jul-26,Result,Linestop,,CAMSHAFT, 202.60 ,16,,620
+Performance,Jul-26,Result,Linestop,,CRANKSHAFT, 430.00 ,29,,620
+Performance,Jul-26,Result,Linestop,,CYL HEAD, 193.00 ,15,,620
+Performance,Jul-26,Result,Linestop,,CYL BLOCK, 629.00 ,89,,620
+Performance,Jul-26,Result,Linestop,,REAR AXLE HOUSING 13, 286.00 ,2,,620
+Performance,Jul-26,Result,Linestop,,END YOKE, 10.00 ,1,,620
+Performance,Jul-26,Result,Linestop,,INNER SHAFT, -   ,0,,620
+Performance,Jul-26,Result,Linestop,,CENTER BEARING, -   ,0,,620
+Performance,Jul-26,Result,Linestop,,NYLON COATED, -   ,0,,620
+Performance,Jul-26,Result,Linestop,,FLANGE, -   ,0,,620
+Performance,Jul-26,Result,Linestop,,SLIDING, 10.00 ,1,,620
+Performance,Jul-26,Result,Linestop,,COUPLING, -   ,0,,620
+Performance,Jul-26,Result,Linestop,,SUB ASSY Y230, -   ,0,,620
+Performance,Jul-26,Result,Linestop,,Y230 INTER AXLE/CENTER BEARING, -   ,0,,620
+Performance,Jul-26,Result,Linestop,,REAR AXLE HOUSING 17, 119.00 ,4,,620
+Performance,Jul-26,Result,Linestop,,E/G LINE, -   ,0,,620
+Performance,Jul-26,Result,Linestop,,AXLE ASSY, 60.00 ,1,,620
+Performance,Jul-26,Result,Linestop,,TRANSMISI, -   ,0,,620
+Performance,Jul-26,Result,Machine Breakdown,,CONROD,,,0.0046,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,CAMSHAFT,,,0.0155,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,CRANKSHAFT,,,0.0363,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,CYL HEAD,,,0.0075,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,CYL BLOCK,,,0.0240,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0221,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,END YOKE,,,0.0009,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,INNER SHAFT,,,0.0000,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,CENTER BEARING,,,0.0000,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,NYLON COATED,,,0.0000,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,FLANGE,,,0.0000,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,SLIDING,,,0.0009,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,COUPLING,,,0.0000,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,SUB ASSY Y230,,,0.0000,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0000,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0093,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,E/G LINE,,,0.0000,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,AXLE ASSY,,,0.0043,"1,5%"
+Performance,Jul-26,Result,Machine Breakdown,,TRANSMISI,,,0.0000,"1,5%"
+Performance,Jul-26,Result,MTTR,,CONROD, 10.23 ,,,12
+Performance,Jul-26,Result,MTTR,,CAMSHAFT, 12.66 ,,,12
+Performance,Jul-26,Result,MTTR,,CRANKSHAFT, 14.83 ,,,12
+Performance,Jul-26,Result,MTTR,,CYL HEAD, 12.87 ,,,12
+Performance,Jul-26,Result,MTTR,,CYL BLOCK, 7.07 ,,,12
+Performance,Jul-26,Result,MTTR,,REAR AXLE HOUSING 13, 143.00 ,,,12
+Performance,Jul-26,Result,MTTR,,END YOKE, 10.00 ,,,12
+Performance,Jul-26,Result,MTTR,,INNER SHAFT, -   ,,,12
+Performance,Jul-26,Result,MTTR,,CENTER BEARING, -   ,,,12
+Performance,Jul-26,Result,MTTR,,NYLON COATED, -   ,,,12
+Performance,Jul-26,Result,MTTR,,FLANGE, -   ,,,12
+Performance,Jul-26,Result,MTTR,,SLIDING, 10.00 ,,,12
+Performance,Jul-26,Result,MTTR,,COUPLING, -   ,,,12
+Performance,Jul-26,Result,MTTR,,SUB ASSY Y230, -   ,,,12
+Performance,Jul-26,Result,MTTR,,Y230 INTER AXLE/CENTER BEARING, -   ,,,12
+Performance,Jul-26,Result,MTTR,,REAR AXLE HOUSING 17, 29.75 ,,,12
+Performance,Jul-26,Result,MTTR,,E/G LINE, -   ,,,12
+Performance,Jul-26,Result,MTTR,,AXLE ASSY, 60.00 ,,,12
+Performance,Jul-26,Result,MTTR,,TRANSMISI, -   ,,,12
+Performance,Jul-26,Result,MTBF,,CONROD," 2,235 ",,,4943
+Performance,Jul-26,Result,MTBF,,CAMSHAFT, 818 ,,,4943
+Performance,Jul-26,Result,MTBF,,CRANKSHAFT, 408 ,,,4943
+Performance,Jul-26,Result,MTBF,,CYL HEAD," 1,704 ",,,4943
+Performance,Jul-26,Result,MTBF,,CYL BLOCK, 294 ,,,4943
+Performance,Jul-26,Result,MTBF,,REAR AXLE HOUSING 13," 6,465 ",,,4943
+Performance,Jul-26,Result,MTBF,,END YOKE," 11,723 ",,,4943
+Performance,Jul-26,Result,MTBF,,INNER SHAFT," 9,240 ",,,4943
+Performance,Jul-26,Result,MTBF,,CENTER BEARING," 10,834 ",,,4943
+Performance,Jul-26,Result,MTBF,,NYLON COATED," 9,905 ",,,4943
+Performance,Jul-26,Result,MTBF,,FLANGE," 10,903 ",,,4943
+Performance,Jul-26,Result,MTBF,,SLIDING," 10,903 ",,,4943
+Performance,Jul-26,Result,MTBF,,COUPLING," 12,756 ",,,4943
+Performance,Jul-26,Result,MTBF,,SUB ASSY Y230," 12,616 ",,,4943
+Performance,Jul-26,Result,MTBF,,Y230 INTER AXLE/CENTER BEARING," 13,745 ",,,4943
+Performance,Jul-26,Result,MTBF,,REAR AXLE HOUSING 17," 3,190 ",,,4943
+Performance,Jul-26,Result,MTBF,,E/G LINE," 14,781 ",,,4943
+Performance,Jul-26,Result,MTBF,,AXLE ASSY," 13,812 ",,,4943
+Performance,Jul-26,Result,MTBF,,TRANSMISI," 30,961 ",,,4943
+Performance,Aug-26,Result,Working Hours,,CONROD," 18,054 ",,,
+Performance,Aug-26,Result,Working Hours,,CAMSHAFT," 10,525 ",,,
+Performance,Aug-26,Result,Working Hours,,CRANKSHAFT," 9,137 ",,,
+Performance,Aug-26,Result,Working Hours,,CYL HEAD," 19,652 ",,,
+Performance,Aug-26,Result,Working Hours,,CYL BLOCK," 19,868 ",,,
+Performance,Aug-26,Result,Working Hours,,REAR AXLE HOUSING 13," 9,341 ",,,
+Performance,Aug-26,Result,Working Hours,,END YOKE," 9,222 ",,,
+Performance,Aug-26,Result,Working Hours,,INNER SHAFT," 9,420 ",,,
+Performance,Aug-26,Result,Working Hours,,CENTER BEARING," 10,628 ",,,
+Performance,Aug-26,Result,Working Hours,,NYLON COATED," 9,448 ",,,
+Performance,Aug-26,Result,Working Hours,,FLANGE," 9,169 ",,,
+Performance,Aug-26,Result,Working Hours,,SLIDING," 9,169 ",,,
+Performance,Aug-26,Result,Working Hours,,COUPLING," 9,379 ",,,
+Performance,Aug-26,Result,Working Hours,,SUB ASSY Y230," 11,009 ",,,
+Performance,Aug-26,Result,Working Hours,,Y230 INTER AXLE/CENTER BEARING," 10,703 ",,,
+Performance,Aug-26,Result,Working Hours,,REAR AXLE HOUSING 17," 9,854 ",,,
+Performance,Aug-26,Result,Working Hours,,E/G LINE," 11,347 ",,,
+Performance,Aug-26,Result,Working Hours,,AXLE ASSY," 11,324 ",,,
+Performance,Aug-26,Result,Working Hours,,TRANSMISI," 22,402 ",,,
+Performance,Aug-26,Result,Linestop,,CONROD, 35.50 ,4,,620
+Performance,Aug-26,Result,Linestop,,CAMSHAFT, 122.80 ,8,,620
+Performance,Aug-26,Result,Linestop,,CRANKSHAFT, 382.50 ,20,,620
+Performance,Aug-26,Result,Linestop,,CYL HEAD, 382.00 ,31,,620
+Performance,Aug-26,Result,Linestop,,CYL BLOCK, 831.40 ,65,,620
+Performance,Aug-26,Result,Linestop,,REAR AXLE HOUSING 13, -   ,0,,620
+Performance,Aug-26,Result,Linestop,,END YOKE, -   ,0,,620
+Performance,Aug-26,Result,Linestop,,INNER SHAFT, -   ,0,,620
+Performance,Aug-26,Result,Linestop,,CENTER BEARING, -   ,0,,620
+Performance,Aug-26,Result,Linestop,,NYLON COATED, -   ,0,,620
+Performance,Aug-26,Result,Linestop,,FLANGE, 20.00 ,2,,620
+Performance,Aug-26,Result,Linestop,,SLIDING, -   ,0,,620
+Performance,Aug-26,Result,Linestop,,COUPLING, 7.00 ,1,,620
+Performance,Aug-26,Result,Linestop,,SUB ASSY Y230, -   ,0,,620
+Performance,Aug-26,Result,Linestop,,Y230 INTER AXLE/CENTER BEARING, -   ,0,,620
+Performance,Aug-26,Result,Linestop,,REAR AXLE HOUSING 17, 8.00 ,1,,620
+Performance,Aug-26,Result,Linestop,,E/G LINE, -   ,0,,620
+Performance,Aug-26,Result,Linestop,,AXLE ASSY, -   ,0,,620
+Performance,Aug-26,Result,Linestop,,TRANSMISI, -   ,0,,620
+Performance,Aug-26,Result,Machine Breakdown,,CONROD,,,0.0020,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,CAMSHAFT,,,0.0117,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,CRANKSHAFT,,,0.0419,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,CYL HEAD,,,0.0194,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,CYL BLOCK,,,0.0418,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,REAR AXLE HOUSING 13,,,0.0000,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,END YOKE,,,0.0000,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,INNER SHAFT,,,0.0000,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,CENTER BEARING,,,0.0000,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,NYLON COATED,,,0.0000,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,FLANGE,,,0.0022,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,SLIDING,,,0.0000,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,COUPLING,,,0.0007,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,SUB ASSY Y230,,,0.0000,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,Y230 INTER AXLE/CENTER BEARING,,,0.0000,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,REAR AXLE HOUSING 17,,,0.0008,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,E/G LINE,,,0.0000,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,AXLE ASSY,,,0.0000,"1,5%"
+Performance,Aug-26,Result,Machine Breakdown,,TRANSMISI,,,0.0000,"1,5%"
+Performance,Aug-26,Result,MTTR,,CONROD, 8.88 ,,,12
+Performance,Aug-26,Result,MTTR,,CAMSHAFT, 15.35 ,,,12
+Performance,Aug-26,Result,MTTR,,CRANKSHAFT, 19.13 ,,,12
+Performance,Aug-26,Result,MTTR,,CYL HEAD, 12.32 ,,,12
+Performance,Aug-26,Result,MTTR,,CYL BLOCK, 12.79 ,,,12
+Performance,Aug-26,Result,MTTR,,REAR AXLE HOUSING 13, -   ,,,12
+Performance,Aug-26,Result,MTTR,,END YOKE, -   ,,,12
+Performance,Aug-26,Result,MTTR,,INNER SHAFT, -   ,,,12
+Performance,Aug-26,Result,MTTR,,CENTER BEARING, -   ,,,12
+Performance,Aug-26,Result,MTTR,,NYLON COATED, -   ,,,12
+Performance,Aug-26,Result,MTTR,,FLANGE, 10.00 ,,,12
+Performance,Aug-26,Result,MTTR,,SLIDING, -   ,,,12
+Performance,Aug-26,Result,MTTR,,COUPLING, 7.00 ,,,12
+Performance,Aug-26,Result,MTTR,,SUB ASSY Y230, -   ,,,12
+Performance,Aug-26,Result,MTTR,,Y230 INTER AXLE/CENTER BEARING, -   ,,,12
+Performance,Aug-26,Result,MTTR,,REAR AXLE HOUSING 17, 8.00 ,,,12
+Performance,Aug-26,Result,MTTR,,E/G LINE, -   ,,,12
+Performance,Aug-26,Result,MTTR,,AXLE ASSY, -   ,,,12
+Performance,Aug-26,Result,MTTR,,TRANSMISI, -   ,,,12
+Performance,Aug-26,Result,MTBF,,CONROD," 4,513 ",,,4943
+Performance,Aug-26,Result,MTBF,,CAMSHAFT," 1,316 ",,,4943
+Performance,Aug-26,Result,MTBF,,CRANKSHAFT, 457 ,,,4943
+Performance,Aug-26,Result,MTBF,,CYL HEAD, 634 ,,,4943
+Performance,Aug-26,Result,MTBF,,CYL BLOCK, 306 ,,,4943
+Performance,Aug-26,Result,MTBF,,REAR AXLE HOUSING 13," 9,341 ",,,4943
+Performance,Aug-26,Result,MTBF,,END YOKE," 9,222 ",,,4943
+Performance,Aug-26,Result,MTBF,,INNER SHAFT," 9,420 ",,,4943
+Performance,Aug-26,Result,MTBF,,CENTER BEARING," 10,628 ",,,4943
+Performance,Aug-26,Result,MTBF,,NYLON COATED," 9,448 ",,,4943
+Performance,Aug-26,Result,MTBF,,FLANGE," 4,585 ",,,4943
+Performance,Aug-26,Result,MTBF,,SLIDING," 9,169 ",,,4943
+Performance,Aug-26,Result,MTBF,,COUPLING," 9,379 ",,,4943
+Performance,Aug-26,Result,MTBF,,SUB ASSY Y230," 11,009 ",,,4943
+Performance,Aug-26,Result,MTBF,,Y230 INTER AXLE/CENTER BEARING," 10,703 ",,,4943
+Performance,Aug-26,Result,MTBF,,REAR AXLE HOUSING 17," 9,854 ",,,4943
+Performance,Aug-26,Result,MTBF,,E/G LINE," 11,347 ",,,4943
+Performance,Aug-26,Result,MTBF,,AXLE ASSY," 11,324 ",,,4943
+Performance,Aug-26,Result,MTBF,,TRANSMISI," 22,402 ",,,4943
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

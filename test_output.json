@@ -1,0 +1,32 @@
+[
+    {
+        "status": "Result",
+        "kpi": "Linestop",
+        "c": 95,
+        "avg_d": "86.152632"
+    },
+    {
+        "status": "Result",
+        "kpi": "Machine Breakdown",
+        "c": 95,
+        "avg_d": null
+    },
+    {
+        "status": "Result",
+        "kpi": "MTBF",
+        "c": 95,
+        "avg_d": null
+    },
+    {
+        "status": "Result",
+        "kpi": "MTTR",
+        "c": 95,
+        "avg_d": null
+    },
+    {
+        "status": "Result",
+        "kpi": "Working Hours",
+        "c": 112,
+        "avg_d": "10880.817857"
+    }
+]
